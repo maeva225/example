@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+}
+
+div.formulaire {
+    border-style: double;
+    background-color: #d7d7ff ;
+    border-color:#2c2e83;
+    border-width: 3px;
+    width: fit-content;
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    position: sticky;
+    right: 0px;
+}
+h2.ttl {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: black;
+    font-size: 8pt;
+    font-style: italic;
+    text-decoration-thickness: 0.4px;
+}
+p.sous {
+    color: red;
+    font-size: 3pt;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}
+p {
+    font-size: 5pt;
+    text-decoration-line: underline;
+    text-decoration-color: #2c2e83;
+    margin: 1px;
+}
+input{
+    font-size: 5px;
+    border-color: #2c2e83;
+    border-style: dashed;
+    border-width: 0.2px;
+    padding: 2px;
+    margin: 1px;
+}
+select{
+    font-size: 5px;
+    border-color: #2c2e83;
+    border-style: dashed;
+    border-width: 0.2px;
+    width: 50px;
+    padding: 2px;
+    margin: 1px;
+}
+p.warn {
+    font-size: 3px;
+    text-decoration: none;
+    color: #2c2e83;
+}
+div.entt{
+    margin-bottom: 10px;
+}
+.calendar {
+    width: 20px;
+}
